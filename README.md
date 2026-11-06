@@ -12,7 +12,7 @@ Presque tout est en **HTML / CSS / JS sans compilation** : on forke le dépôt, 
 | Outil | Ce que ça fait |
 |---|---|
 | [battleground](https://github.com/ashteroash-sudo/battleground) 📴 | **Table de combat** : joueurs / ennemis, santé, soif, tours, duels, musique, pool d'ennemis génériques (sabbat, cartel, voyous…) et répertoire d'ennemis nommés exportable. ([démo](https://battleground-eight.vercel.app)) |
-| [Scene-Maker](https://github.com/ashteroash-sudo/Scene-Maker) 📴 | **Gestionnaire de scène** façon tuiles : fond + musique + zones cliquables, vue MJ / vue joueur, horloge de jeu, lien ouvert sur un second écran. |
+| [Scene-Maker](https://github.com/ashteroash-sudo/Scene-Maker) 📴 | **Gestionnaire de scène** façon tuiles : fond + musique + zones cliquables, vue MJ / vue joueur, horloge de jeu, lien ouvert sur un second écran. ([démo](https://roman-photo-five.vercel.app)) |
 | [fiche-de-perso](https://github.com/ashteroash-sudo/fiche-de-perso) 📴 | **Fiche de personnage V5** interactive : pistes de dégâts, soif, volonté, cases à cocher, export / import de la fiche. ([démo](https://fiche-de-perso.vercel.app)) |
 | [chasse](https://github.com/ashteroash-sudo/chasse) 📴 | **Outil de prédation** : lieux de chasse, proies, résonance du sang, PNJ, ambiance musicale. Données d'exemple pour Gary, à remplacer par les vôtres. ([démo](https://chasse-psi.vercel.app)) |
 | [carte-chicago](https://github.com/ashteroash-sudo/carte-chicago) 📴 | **Carte de terrain** à quartiers cliquables (Chicago et Gary) ; un dossier par quartier avec texte + images, facile à étendre à une autre ville. ([démo](https://carte-chicago.vercel.app)) |
