@@ -11,14 +11,14 @@ Presque tout est en **HTML / CSS / JS sans compilation** : on forke le dépôt, 
 
 | Outil | Ce que ça fait |
 |---|---|
-| [battleground](https://github.com/ashteroash-sudo/battleground) 📴 | **Table de combat** : joueurs / ennemis, santé, soif, tours, duels, musique, pool d'ennemis génériques (sabbat, cartel, voyous…) et répertoire d'ennemis nommés exportable. |
+| [battleground](https://github.com/ashteroash-sudo/battleground) 📴 | **Table de combat** : joueurs / ennemis, santé, soif, tours, duels, musique, pool d'ennemis génériques (sabbat, cartel, voyous…) et répertoire d'ennemis nommés exportable. ([démo](https://battleground-eight.vercel.app)) |
 | [Scene-Maker](https://github.com/ashteroash-sudo/Scene-Maker) 📴 | **Gestionnaire de scène** façon tuiles : fond + musique + zones cliquables, vue MJ / vue joueur, horloge de jeu, lien ouvert sur un second écran. |
 | [fiche-de-perso](https://github.com/ashteroash-sudo/fiche-de-perso) 📴 | **Fiche de personnage V5** interactive : pistes de dégâts, soif, volonté, cases à cocher, export / import de la fiche. |
-| [chasse](https://github.com/ashteroash-sudo/chasse) 📴 | **Outil de prédation** : lieux de chasse, proies, résonance du sang, PNJ, ambiance musicale. Données d'exemple pour Gary, à remplacer par les vôtres. |
-| [carte-chicago](https://github.com/ashteroash-sudo/carte-chicago) 📴 | **Carte de terrain** à quartiers cliquables (Chicago et Gary) ; un dossier par quartier avec texte + images, facile à étendre à une autre ville. |
+| [chasse](https://github.com/ashteroash-sudo/chasse) 📴 | **Outil de prédation** : lieux de chasse, proies, résonance du sang, PNJ, ambiance musicale. Données d'exemple pour Gary, à remplacer par les vôtres. ([démo](https://chasse-psi.vercel.app)) |
+| [carte-chicago](https://github.com/ashteroash-sudo/carte-chicago) 📴 | **Carte de terrain** à quartiers cliquables (Chicago et Gary) ; un dossier par quartier avec texte + images, facile à étendre à une autre ville. ([démo](https://carte-chicago.vercel.app)) |
 | [visions](https://github.com/ashteroash-sudo/visions) 📴 | **Visions malkaviennes** animées, à lancer pendant la partie ([démo](https://visions-bay.vercel.app)). |
-| [r-sum-histoire](https://github.com/ashteroash-sudo/r-sum-histoire) 📴 | **Intro de séance** : écran « Cliquez pour commencer » et résumé animé de l'histoire jusque-là. |
-| [tableau-de-liege](https://github.com/ashteroash-sudo/tableau-de-liege) | **Tableau de liège partagé** pour la coterie : persos, lieux, indices, pistes, notes privées ; connexions joueurs / MJ (Supabase). |
+| [r-sum-histoire](https://github.com/ashteroash-sudo/r-sum-histoire) 📴 | **Intro de séance** : écran « Cliquez pour commencer » et résumé animé de l'histoire jusque-là. ([démo](https://r-sum-histoire.vercel.app)) |
+| [tableau-de-liege](https://github.com/ashteroash-sudo/tableau-de-liege) | **Tableau de liège partagé** pour la coterie : persos, lieux, indices, pistes, notes privées ; connexions joueurs / MJ (Supabase). ([démo](https://tableau-de-liege.vercel.app)) |
 | [radio-CB](https://github.com/ashteroash-sudo/radio-CB) | **Scanner radio** : on cherche la bonne fréquence dans le grésillement pour capter un message ([démo](https://radio-cb.vercel.app)). |
 
 ## 🎭 Accessoires de la chronique
@@ -27,18 +27,18 @@ Faux sites que les joueurs « trouvaient » en jeu. Liés à mon scénario, mais
 
 | Accessoire | Ce que c'est |
 |---|---|
-| [Schrecknet](https://github.com/ashteroash-sudo/Schrecknet) | Faux SchreckNet : chat IA avec un Nosferatu (clé API Gemini requise). |
+| [Schrecknet](https://github.com/ashteroash-sudo/Schrecknet) | Faux SchreckNet : chat IA avec un Nosferatu (clé API Gemini requise). ([démo](https://schrecknet-nine.vercel.app)) |
 | [Nocturne-app](https://github.com/ashteroash-sudo/Nocturne-app) | Fausse appli de rencontre dont un vampire se sert pour chasser ([démo](https://nocturne-app-three.vercel.app)). |
-| [Victime-t-l-phone](https://github.com/ashteroash-sudo/Victime-t-l-phone) | Téléphone d'une victime, à fouiller comme une preuve numérique. |
-| [morgue](https://github.com/ashteroash-sudo/morgue) | Registre du médecin légiste du comté de Cook. |
-| [CCTV](https://github.com/ashteroash-sudo/CCTV) | Salle de vidéosurveillance : grille de caméras + console de « hack ». |
-| [Journal](https://github.com/ashteroash-sudo/Journal) | Archives d'un journal local du South Side. |
-| [scoop-tv](https://github.com/ashteroash-sudo/scoop-tv) | Flash info d'une chaîne à scandales. |
-| [Gallerie](https://github.com/ashteroash-sudo/Gallerie) | Site d'un importateur d'art, avec espace réservé. |
-| [eclipse-frv](https://github.com/ashteroash-sudo/eclipse-frv) | Tableau interactif à examiner : on gratte la peinture, on le retourne… |
+| [Victime-t-l-phone](https://github.com/ashteroash-sudo/Victime-t-l-phone) | Téléphone d'une victime, à fouiller comme une preuve numérique. ([démo](https://victime-t-l-phone.vercel.app)) |
+| [morgue](https://github.com/ashteroash-sudo/morgue) | Registre du médecin légiste du comté de Cook. ([démo](https://morgue-sandy.vercel.app)) |
+| [CCTV](https://github.com/ashteroash-sudo/CCTV) | Salle de vidéosurveillance : grille de caméras + console de « hack ». ([démo](https://cctv-dun-seven.vercel.app)) |
+| [Journal](https://github.com/ashteroash-sudo/Journal) | Archives d'un journal local du South Side. ([démo](https://journal-kappa-rose.vercel.app)) |
+| [scoop-tv](https://github.com/ashteroash-sudo/scoop-tv) | Flash info d'une chaîne à scandales. ([démo](https://scoop-tv.vercel.app)) |
+| [Gallerie](https://github.com/ashteroash-sudo/Gallerie) | Site d'un importateur d'art, avec espace réservé. ([démo](https://gallerie-lemon.vercel.app)) |
+| [eclipse-frv](https://github.com/ashteroash-sudo/eclipse-frv) | Tableau interactif à examiner : on gratte la peinture, on le retourne… ([démo](https://eclipse-frv.vercel.app)) |
 | [lakeshore-freight](https://github.com/ashteroash-sudo/lakeshore-freight) | Suivi de colis d'une société de transport ([démo](https://lakeshore-freight.vercel.app)). |
 | [Vino-Veritas](https://github.com/ashteroash-sudo/Vino-Veritas) | Portail d'un négociant en spiritueux + cercle de dégustation, carte de visite à QR code (Supabase) ([démo](https://vino-veritas-one.vercel.app)). |
-| [d-dale](https://github.com/ashteroash-sudo/d-dale) | Le Dédale : labyrinthe d'énigmes en chambres, pour une joueuse malkavienne. |
+| [d-dale](https://github.com/ashteroash-sudo/d-dale) | Le Dédale : labyrinthe d'énigmes en chambres, pour une joueuse malkavienne. ([démo](https://d-dale.vercel.app)) |
 | [labyrinth](https://github.com/ashteroash-sudo/labyrinth) | Prologue jouable du Dédale, en couloir à la première personne. |
 
 ---
